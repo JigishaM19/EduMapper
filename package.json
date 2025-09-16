@@ -1,0 +1,21 @@
+{
+  "name": "hackthon",
+  "version": "1.0.0",
+  "description": "```bash\r # Clone Repository\r git clone <repo-url>    # e.g. https://github.com/JigishaM19/EduMapper.git\r cd <repo-folder>        # e.g. EduMapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JigishaM19/edumapper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JigishaM19/edumapper/issues"
+  },
+  "homepage": "https://github.com/JigishaM19/edumapper#readme"
+}
